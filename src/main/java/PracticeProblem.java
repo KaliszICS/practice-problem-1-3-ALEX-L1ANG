@@ -2,7 +2,7 @@
 File Name: Lesson 1.3 - strings and Output
 Author: Alex Liang
 Date Created: Feb 12, 2026
-
+Date Last Modified: Feb 12, 2026
 */
 
 public class PracticeProblem {
