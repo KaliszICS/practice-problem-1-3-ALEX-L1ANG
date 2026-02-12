@@ -18,21 +18,21 @@ public class PracticeProblem {
 		//Write question 1 code here
 	System.out.println(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n");
 	System.out.println("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n");
-	System.out.println("* * * * * *\n *       * \n  *     *  \n   *   *   \n    * *    \n     *     ");
+	System.out.println("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *");
 	}
 
 	public static void q2() {
 		//Write question 2 code here
-	System.out.println("          '__'\n          (oo)\n  /========//\n / || XX ||\n* ||----||\n   VV    VV\n   ''    ''");
+	System.out.println("          '__'\n          (oo)\n  /========//\n / || XX ||\n*  ||----||\n   VV    VV\n   ''    ''");
 	}
 
 	public static void q3() {
 		//Write question 3 code here
-	String var1 = "Fornite";
+	String var1 = "Fortnite";
 	String var2 = "is awful";
 
-	System.out.println(var1 + " ");
-	System.out.print(var2);
+	System.out.print(var1 + " ");
+	System.out.print(var2 + "\n");
 	}
 
 	public static void q4() {
